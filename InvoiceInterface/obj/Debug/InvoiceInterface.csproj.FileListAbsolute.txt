@@ -1,0 +1,5 @@
+D:\maslam\my stuffs\dotnetpractice\aspPrac\aslam\MyFactorySolution\InvoiceInterface\bin\Debug\InvoiceInterface.dll
+D:\maslam\my stuffs\dotnetpractice\aspPrac\aslam\MyFactorySolution\InvoiceInterface\bin\Debug\InvoiceInterface.pdb
+D:\maslam\my stuffs\dotnetpractice\aspPrac\aslam\MyFactorySolution\InvoiceInterface\obj\Debug\InvoiceInterface.dll
+D:\maslam\my stuffs\dotnetpractice\aspPrac\aslam\MyFactorySolution\InvoiceInterface\obj\Debug\InvoiceInterface.pdb
+D:\maslam\my stuffs\dotnetpractice\aspPrac\aslam\MyFactorySolution\InvoiceInterface\obj\Debug\InvoiceInterface.csprojResolveAssemblyReference.cache
